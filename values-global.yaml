@@ -10,16 +10,16 @@ global:
     installPlanApproval: Automatic
 
   imageregistry:
-    account: PLAINTEXT
+    account: ggoksu
     hostname: quay.io
     type: quay
 
   git:
     hostname: github.com
-    account: PLAINTEXT
-    username: PLAINTEXT
-    email: SOMEWHERE@EXAMPLE.COM
-    dev_revision: main
+    account: ggoksu
+    username: ggoksu
+    email: ggoksu@gmail.com
+    dev_revision: dev
 
   s3:
     bucket:
